@@ -1,0 +1,1 @@
+python3 snapshot-finder.py --snapshot_path /mnt/snapshots/ --max_latency 500 --measurement_time 10 --min_download_speed 290 --version 2.3.11
